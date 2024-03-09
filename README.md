@@ -12,8 +12,7 @@ In this project a RRT* path planning and minimum snap trajectory generation (mot
 	  python3 tello_run.py
 	  ```
 
-## Report
-For detailed description see the report [here](Report.pdf).
+
 ## Videos on Quadcopter
 
 Testing on the real quadcopter:
